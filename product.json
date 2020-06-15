@@ -1,0 +1,10 @@
+[
+{"type":"header","version":"4.7.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"hexweek6"},
+{"type":"table","name":"product","database":"hexweek6","data":
+[
+{"ID":"1","ItemName":"Tatami Cup","Price":"NT$1,200","DiscountPrice":"NT$1,080","Description":"This beautiful light grey cup comes from Taiwan. Add some minimalist scenes to your lifetime and use this cup for tea, coffee, dessert, or to place small items as a dish tray.","Standard":"Made in Taiwan 8 x 8 x 6 cm Dishwasher and Microwave-safe","Quantity":"5","Img":"https:\/\/images.unsplash.com\/photo-1556207944-1e0033a54801?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"},
+{"ID":"2","ItemName":"Limdae Cup","Price":"NT$2,400","DiscountPrice":"","Description":"This beautiful light grey cup comes from Taiwan. Add some minimalist scenes to your lifetime and use this cup for tea, coffee, dessert, or to place small items as a dish tray.","Standard":"Made in Taiwan 8 x 8 x 6 cm Dishwasher and Microwave-safe","Quantity":"8","Img":"https:\/\/images.unsplash.com\/photo-1523976714396-3ee195e3b3a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80"}
+]
+}
+]
